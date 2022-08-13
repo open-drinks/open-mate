@@ -12,7 +12,6 @@ The average cost for a reconditionned bottle with a label on it + human cost 0.9
   - [🫗Make Syrup](#make-syrup)
 - [Packaging](#packaging)
   - [Label Print](#label-print)
-  - [Make organic glue](#make-organic-glue)
 - [Ressources and Credits](#ressources-and-credits)
 
 
@@ -35,23 +34,51 @@ The average cost for a reconditionned bottle with a label on it + human cost 0.9
 6. Filter the liquid
 7. Store in a glass bottle
 
-You will get about 300g of syrup (3L = 6 bottles of 50cl)
+You will get about 300g of syrup (~6-7 bottles of 50cl)
+
 
 **Bottle fill**
 - A Bottle (50cl)
 - Mate Syrup 6 tbsp
 - Carbonated Water (50cl)
-- Citric Acid 0.1 tsp (teaspoon not table spoon)
+- Citric Acid 0.1 tsp **(teaspoon not table spoon)**
+
+1. Add the syrup in the bottle
+2. Add the carbonated water
+3. Add the citric acid
+4. Seal the bottle
 
 
 # Packaging
 
+You can use these labels to stick on the bottle
+
+**Front label**
+![](medias/label_front.png)
+
+**Back Label**
+![](medias/label_back.png)
+
+
+
 ## Label Print
 
-## Make organic glue
+**Make organic glue**
+- Flour (2 tbsp)
+- Sugar (0.5 tbsp)
+- Water (10-20 cl )
 
+1. Mix everything in a 
+2. Boil the mix
+3. Put in a jar
+
+**Put label on bottle**
+
+1. With a brush apply some  glue on the label 
+2. Put the label on te bottle
 
 # Ressources and Credits
 - https://www.instructables.com/Club-Mate-Copycat/
 - https://hungrysofia.com/2014/04/30/yerba-mate-soda/
+- https://www.thevert.com/cafeine-et-duree-dinfusion/
 - https://revistas.ufpr.br/alimentos/article/view/14928
