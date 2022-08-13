@@ -8,41 +8,20 @@ Open mate is a **Club Mate open source alternative** From the recipe to the pack
 Club Mate import is quite expensive in France (3.45 eur for a 50cl bottle) So why not making it yourself ? The average cost for a reconditionned bottle with the Open Mate prep costs 0.30 cent 
 The average cost for a reconditionned bottle with a label on it + human cost 0.92 cent
 
-- [Recipes](#recipes)
-  - [🍂 Tea Version](#-tea-version)
-  - [🫗Syrup Version](#syrup-version)
+- [Recipe](#recipe)
+  - [🫗Make Syrup](#make-syrup)
+- [Packaging](#packaging)
+  - [Label Print](#label-print)
+  - [Make organic glue](#make-organic-glue)
 - [Ressources and Credits](#ressources-and-credits)
 
 
-# Recipes
-Two recipes have been established 
-- Tea Version
-- Syrup Version
+# Recipe
 
-## 🍂 Tea Version
-
-A refreshing, bubble-free drink with a probable high caffeine content
+## 🫗Make Syrup 
 
 **Ingredients**
-
-* Yerba Maté (10g) | Infusion time 6-7 min
-* hot water (500ml)
-* brown sugar (40g)
-* citric acid (0.2tsp)
-* cold water (500ml) (preferably refridgerated)
-
-1. Boil water
-2. Infuse Yerba in hot water for 6-7 minutes
-3. Add Sugar
-4. Add Citric Acid 
-5. Add cold water to infusion
-6. Wait until its cold and put in freezer
-
-
-## 🫗Syrup Version
-
-**Ingredients**
-* Yerba Mate (30g)
+* Yerba Mate (90g) - 6 tbsp
 * White Sugar 240g
 * Water (240ml)
 
@@ -52,11 +31,24 @@ A refreshing, bubble-free drink with a probable high caffeine content
 2. Simmer over medium heat until sugar is dissolved, about 5 to 10 minutes. 
 3. Turn off the heat.
 4. Add the Yerba Mate
-5. Let infuse 20 minutes
+5. Let infuse 5 minutes
 6. Filter the liquid
 7. Store in a glass bottle
 
 You will get about 300g of syrup (3L = 6 bottles of 50cl)
+
+**Bottle fill**
+- A Bottle (50cl)
+- Mate Syrup 6 tbsp
+- Carbonated Water (50cl)
+- Citric Acid 0.1 tsp (teaspoon not table spoon)
+
+
+# Packaging
+
+## Label Print
+
+## Make organic glue
 
 
 # Ressources and Credits
