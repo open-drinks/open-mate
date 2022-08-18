@@ -1,4 +1,4 @@
-#Open Mate
+# Open Mate
 ![](medias/label_front.png)
 
 **Open Source Soda For Hackers**
@@ -8,6 +8,7 @@ Open mate is a **Club Mate open source alternative** From the recipe to the pack
 Club Mate import is quite expensive in France (3.45 eur for a 50cl bottle) So why not making it yourself ? The average cost for a reconditionned bottle with the Open Mate prep costs 0.30 cent 
 The average cost for a reconditionned bottle with a label on it + human cost 0.92 cent
 
+- [Open Mate](#open-mate)
 - [Recipe](#recipe)
   - [🫗Make Syrup](#make-syrup)
 - [Packaging](#packaging)
