@@ -20,7 +20,7 @@ The average cost for a reconditionned bottle with a label on it + human cost 0.9
 ## 🫗Make Syrup 
 
 **Ingredients**
-* Yerba Mate (90g) - 6 tbsp
+* Yerba Mate (35g) - 6 tbsp
 * White Sugar 240g
 * Water (240ml)
 
