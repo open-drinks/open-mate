@@ -68,7 +68,7 @@ You can use these labels to stick on the bottle
 - Sugar (0.5 tbsp)
 - Water (10-20 cl )
 
-1. Mix everything in a 
+1. Mix everything in a pot
 2. Boil the mix
 3. Put in a jar
 
